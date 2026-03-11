@@ -107,6 +107,63 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
 
 ---
 
+## Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/task-board">
+        <img src="https://raw.githubusercontent.com/saadshahidit/task-board/main/docs/images/screenshot.png" width="100%" alt="Task Board" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/task-board">Task Board</a></strong>
+      <br/>
+      <sub>Kanban board · MERN · Drag & Drop · JWT Auth</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/note-space">
+        <img src="https://raw.githubusercontent.com/saadshahidit/note-space/main/docs/images/screenshot.png" width="100%" alt="Note Space" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/note-space">Note Space</a></strong>
+      <br/>
+      <sub>Note-taking app · PERN · Docker · TypeScript</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/expense-pad">
+        <img src="https://raw.githubusercontent.com/saadshahidit/expense-pad/main/docs/images/screenshot.png" width="100%" alt="Expense Pad" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/expense-pad">Expense Pad</a></strong>
+      <br/>
+      <sub>Expense tracker · NestJS + Next.js · Recharts</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/job-flow">
+        <img src="https://raw.githubusercontent.com/saadshahidit/job-flow/main/docs/images/screenshot.png" width="100%" alt="Job Flow" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/job-flow">Job Flow</a></strong>
+      <br/>
+      <sub>Job queue dashboard · BullMQ · Redis · PostgreSQL</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/chat-wave">
+        <img src="https://raw.githubusercontent.com/saadshahidit/chat-wave/main/docs/images/screenshot.png" width="100%" alt="Chat Wave" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/chat-wave">Chat Wave</a></strong>
+      <br/>
+      <sub>Real-time chat · Socket.io · WebSockets · PERN</sub>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
