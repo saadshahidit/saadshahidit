@@ -177,19 +177,7 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <img src="./assets/stats/experience.svg" width="160" height="160" />
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/stats/technologies.svg" width="160" height="160" />
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/stats/status.svg" width="160" height="160" />
-    </td>
-  </tr>
-</table>
+<img src="./assets/stats/experience.svg" width="160" height="160" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/stats/technologies.svg" width="160" height="160" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/stats/status.svg" width="160" height="160" />
 
 </div>
 
