@@ -163,7 +163,15 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
       <br/>
       <sub>Real-time chat · Socket.io · WebSockets · PERN</sub>
     </td>
-    <td width="33%"></td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/flow-desk">
+        <img src="https://raw.githubusercontent.com/saadshahidit/flow-desk/main/docs/images/screenshot.png" width="100%" alt="Flow Desk" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/flow-desk">Flow Desk</a></strong>
+      <br/>
+      <sub>Task workflow app · Angular · MEAN · JWT Auth</sub>
+    </td>
   </tr>
 </table>
 
