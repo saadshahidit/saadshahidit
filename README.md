@@ -169,20 +169,23 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
 
 ---
 
-## GitHub Stats
+## Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadshahidit&theme=tokyonight" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadshahidit&theme=tokyonight" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadshahidit&theme=tokyonight" height="165" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saadshahidit&theme=tokyonight&hide_border=true)
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/stats/experience.svg" width="160" height="160" />
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/stats/technologies.svg" width="160" height="160" />
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/stats/status.svg" width="160" height="160" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
