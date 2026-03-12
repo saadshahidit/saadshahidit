@@ -1,0 +1,8 @@
+<svg width="160" height="160" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="76" fill="#0d1117" stroke="#00bfff" stroke-width="4"/>
+  <circle cx="80" cy="80" r="68" fill="none" stroke="#00bfff" stroke-width="1" stroke-dasharray="4 3" opacity="0.3"/>
+  <text x="80" y="72" text-anchor="middle" fill="#ffffff" font-size="36" font-weight="bold" font-family="sans-serif">30+</text>
+  <line x1="40" y1="96" x2="120" y2="96" stroke="#00bfff" stroke-width="1" opacity="0.5"/>
+  <text x="80" y="113" text-anchor="middle" fill="#aaaaaa" font-size="12" font-family="sans-serif">Technologies</text>
+  <text x="80" y="130" text-anchor="middle" fill="#666666" font-size="10" font-family="sans-serif">Tools in Stack</text>
+</svg>
