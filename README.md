@@ -108,7 +108,7 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
 
 ---
 
-## Repositories
+## Public Repositories (Side Projects)
 
 <table>
   <tr>
