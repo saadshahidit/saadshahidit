@@ -169,6 +169,27 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
       <sub>Task workflow app · Angular · MEAN · JWT Auth</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/spend-book">
+        <img src="https://raw.githubusercontent.com/saadshahidit/spend-book/main/docs/images/screenshot.png" width="100%" alt="Spend Book" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/spend-book">Spend Book</a></strong>
+      <br/>
+      <sub>Mobile expense tracker · Flutter · Supabase · Riverpod</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/inventory-track">
+        <img src="https://raw.githubusercontent.com/saadshahidit/inventory-track/main/docs/images/screenshot.png" width="100%" alt="Inventory Track" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/inventory-track">Inventory Track</a></strong>
+      <br/>
+      <sub>Inventory management · Angular · .NET · SQL Server · Docker</sub>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 ---
