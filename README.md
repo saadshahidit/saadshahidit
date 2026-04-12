@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,50:1e90ff,100:00bfff&height=200&section=header&text=Saad%20Shahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=e0f0ff" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+4%2B+Years+Experience;MERN+%7C+PERN+%7C+MEAN+Stack+Expert;React.js+%2B+Next.js+%2B+Node.js+%2B+NestJS;Building+Scalable+%26+Production-Ready+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+4.5%2B+Years+Experience;MERN+%7C+PERN+%7C+MEAN+Stack+Expert;React.js+%2B+Next.js+%2B+Node.js+%2B+NestJS;Building+Scalable+%26+Production-Ready+Apps)](https://git.io/typing-svg)
 
 ### 🌐 [saadshahidit.vercel.app](https://saadshahidit.vercel.app)
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** with **4+ years of experience** building scalable, production-ready web applications. I work across the entire stack — from pixel-perfect UIs to robust backend systems and cloud deployments.
+I'm a **Full Stack Developer** with **4.5+ years of experience** building scalable, production-ready web applications. I work across the entire stack — from pixel-perfect UIs to robust backend systems and cloud deployments.
 
 Currently at **Dev House, Faisalabad**, contributing to projects across multiple domains using modern technologies including MERN/PERN stacks, DevOps pipelines, and AI-integrated development.
 
