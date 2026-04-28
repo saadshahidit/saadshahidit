@@ -107,7 +107,7 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_CI%2FCD-181717?style=for-the-badge&logo=github&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS_Hosting-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Virtual Private Server](https://img.shields.io/badge/Virtual_Private_Server-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AWS Route 53](https://img.shields.io/badge/AWS_Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
