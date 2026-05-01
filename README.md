@@ -151,14 +151,63 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/saadshahidit/task-board">
-        <img src="https://raw.githubusercontent.com/saadshahidit/task-board/main/docs/images/screenshot.png" width="100%" alt="Task Board" />
+      <a href="https://github.com/saadshahidit/interview-forge">
+        <img src="https://raw.githubusercontent.com/saadshahidit/interview-forge/main/docs/images/screenshot.png" width="100%" alt="Interview Forge" />
       </a>
       <br/>
-      <strong><a href="https://github.com/saadshahidit/task-board">Task Board</a></strong>
+      <strong><a href="https://github.com/saadshahidit/interview-forge">Interview Forge</a></strong>
       <br/>
-      <sub>Kanban board · MERN · Drag & Drop · JWT Auth</sub>
+      <sub>AI mock interviews · RAG · LangGraph · GPT-4o · ChromaDB · React</sub>
     </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/inventory-track">
+        <img src="https://raw.githubusercontent.com/saadshahidit/inventory-track/main/docs/images/screenshot.png" width="100%" alt="Inventory Track" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/inventory-track">Inventory Track</a></strong>
+      <br/>
+      <sub>Inventory management · Angular · .NET · SQL Server · Docker</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/spend-book">
+        <img src="https://raw.githubusercontent.com/saadshahidit/spend-book/main/docs/images/screenshot.png" width="100%" alt="Spend Book" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/spend-book">Spend Book</a></strong>
+      <br/>
+      <sub>Mobile expense tracker · Flutter · Supabase · Riverpod</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/flow-desk">
+        <img src="https://raw.githubusercontent.com/saadshahidit/flow-desk/main/docs/images/screenshot.png" width="100%" alt="Flow Desk" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/flow-desk">Flow Desk</a></strong>
+      <br/>
+      <sub>Task workflow app · Angular · MEAN · JWT Auth</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/chat-wave">
+        <img src="https://raw.githubusercontent.com/saadshahidit/chat-wave/main/docs/images/screenshot.png" width="100%" alt="Chat Wave" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/chat-wave">Chat Wave</a></strong>
+      <br/>
+      <sub>Real-time chat · Socket.io · WebSockets · PERN</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/job-flow">
+        <img src="https://raw.githubusercontent.com/saadshahidit/job-flow/main/docs/images/screenshot.png" width="100%" alt="Job Flow" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/job-flow">Job Flow</a></strong>
+      <br/>
+      <sub>Job queue dashboard · BullMQ · Redis · PostgreSQL</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://github.com/saadshahidit/note-space">
         <img src="https://raw.githubusercontent.com/saadshahidit/note-space/main/docs/images/screenshot.png" width="100%" alt="Note Space" />
@@ -177,63 +226,14 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
       <br/>
       <sub>Expense tracker · NestJS + Next.js · Recharts</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/saadshahidit/job-flow">
-        <img src="https://raw.githubusercontent.com/saadshahidit/job-flow/main/docs/images/screenshot.png" width="100%" alt="Job Flow" />
+      <a href="https://github.com/saadshahidit/task-board">
+        <img src="https://raw.githubusercontent.com/saadshahidit/task-board/main/docs/images/screenshot.png" width="100%" alt="Task Board" />
       </a>
       <br/>
-      <strong><a href="https://github.com/saadshahidit/job-flow">Job Flow</a></strong>
+      <strong><a href="https://github.com/saadshahidit/task-board">Task Board</a></strong>
       <br/>
-      <sub>Job queue dashboard · BullMQ · Redis · PostgreSQL</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/saadshahidit/chat-wave">
-        <img src="https://raw.githubusercontent.com/saadshahidit/chat-wave/main/docs/images/screenshot.png" width="100%" alt="Chat Wave" />
-      </a>
-      <br/>
-      <strong><a href="https://github.com/saadshahidit/chat-wave">Chat Wave</a></strong>
-      <br/>
-      <sub>Real-time chat · Socket.io · WebSockets · PERN</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/saadshahidit/flow-desk">
-        <img src="https://raw.githubusercontent.com/saadshahidit/flow-desk/main/docs/images/screenshot.png" width="100%" alt="Flow Desk" />
-      </a>
-      <br/>
-      <strong><a href="https://github.com/saadshahidit/flow-desk">Flow Desk</a></strong>
-      <br/>
-      <sub>Task workflow app · Angular · MEAN · JWT Auth</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/saadshahidit/spend-book">
-        <img src="https://raw.githubusercontent.com/saadshahidit/spend-book/main/docs/images/screenshot.png" width="100%" alt="Spend Book" />
-      </a>
-      <br/>
-      <strong><a href="https://github.com/saadshahidit/spend-book">Spend Book</a></strong>
-      <br/>
-      <sub>Mobile expense tracker · Flutter · Supabase · Riverpod</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/saadshahidit/inventory-track">
-        <img src="https://raw.githubusercontent.com/saadshahidit/inventory-track/main/docs/images/screenshot.png" width="100%" alt="Inventory Track" />
-      </a>
-      <br/>
-      <strong><a href="https://github.com/saadshahidit/inventory-track">Inventory Track</a></strong>
-      <br/>
-      <sub>Inventory management · Angular · .NET · SQL Server · Docker</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/saadshahidit/interview-forge">
-        <img src="https://raw.githubusercontent.com/saadshahidit/interview-forge/main/docs/images/screenshot.png" width="100%" alt="Interview Forge" />
-      </a>
-      <br/>
-      <strong><a href="https://github.com/saadshahidit/interview-forge">Interview Forge</a></strong>
-      <br/>
-      <sub>AI mock interviews · RAG · LangGraph · GPT-4o · ChromaDB</sub>
+      <sub>Kanban board · MERN · Drag & Drop · JWT Auth</sub>
     </td>
   </tr>
 </table>
