@@ -226,7 +226,15 @@ Currently at **Dev House, Faisalabad**, contributing to projects across multiple
       <br/>
       <sub>Inventory management · Angular · .NET · SQL Server · Docker</sub>
     </td>
-    <td></td>
+    <td align="center" width="33%">
+      <a href="https://github.com/saadshahidit/interview-forge">
+        <img src="https://raw.githubusercontent.com/saadshahidit/interview-forge/main/docs/images/screenshot.png" width="100%" alt="Interview Forge" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/saadshahidit/interview-forge">Interview Forge</a></strong>
+      <br/>
+      <sub>AI mock interviews · RAG · LangGraph · GPT-4o · ChromaDB</sub>
+    </td>
   </tr>
 </table>
 
